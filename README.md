@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">A **3rd-year B.Tech student** at **VNR VJIET**, majoring in **Computer Science and Business Systems (CSBS)**. 💡 I'm passionate about leveraging technology to solve **real-world problems** and drive meaningful impact. 💻 With hands-on experience in **Web Development**, **Blockchain**, and **Machine Learning**, I enjoy building scalable, practical solutions and continuously exploring emerging tech.</h3>
+<h3 align="center">A 3rd-year B.Tech student at VNR VJIET, majoring in Computer Science and Business Systems (CSBS). 💡 I'm passionate about leveraging technology to solve real-world problems and drive meaningful impact. 💻 With hands-on experience in Web Development, Blockchain, and Machine Learning, I enjoy building scalable, practical solutions and continuously exploring emerging tech.</h3>
 
 - 🔭 Currently working on **projects in Artificial Intelligence, Machine Learning and Web Development.**
 
